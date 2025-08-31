@@ -1,0 +1,3 @@
+# Icon placeholder - Replace with actual 1024x1024 app icon
+# This is a placeholder for the app icon
+# For a real APK, you would need to create proper icon files
